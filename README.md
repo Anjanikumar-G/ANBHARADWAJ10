@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANBHARADWAJ10
+- 👋 Hi, I’m @ANJANIKUMAR
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Dev
 - 💞️ I’m looking to collaborate on ...
