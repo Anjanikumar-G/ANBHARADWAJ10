@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANJANIKUMAR
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Dev
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
